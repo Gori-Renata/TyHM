@@ -16,5 +16,5 @@ Repositorio de Github
 
 #Traducción del capítulo del libro
 <a href="https://github.com/Gori-Renata/TyHM/blob/main/TRADUCCIONFINAL.pdf">
-<img src="![image](https://user-images.githubusercontent.com/86117574/123104270-2c6df880-d40d-11eb-8582-4b675bdf9925.png)">
+<img src="https://user-images.githubusercontent.com/86117574/123104270-2c6df880-d40d-11eb-8582-4b675bdf9925.png">
 </a>

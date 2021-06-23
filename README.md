@@ -1,3 +1,4 @@
+
 # TyHM
 TÉCNICAS Y HERRAMIENTAS MODERNAS
 # Trabajo Técnicas y Herramientas Modernas <br>
@@ -10,5 +11,5 @@ Repositorio de Github
 #Dejo el link de mi repositorio haciendo click en la imagen
 
 <a href="https://github.com/Gori-Renata/TyHM/blob/main/CV_Renata_Gori.pdf">
-<img src=
-
+<img src="https://user-images.githubusercontent.com/86117574/123103138-1c094e00-d40c-11eb-996e-9a5c1cb0d8bd.png">
+</a>

@@ -9,4 +9,6 @@ GRUPO: POWER RANGERS ;)
 Repositorio de Github
 #Dejo el link de mi repositorio haciendo click en la imagen
 
-<a href=
+<a href="https://github.com/Gori-Renata/TyHM/blob/main/CV_Renata_Gori.pdf">
+<img src=
+
